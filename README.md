@@ -1,11 +1,10 @@
-# Hi there. I am Kritika 👋. Welcome To My Github Page!!!
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm sina
 
 ---
 
 ## About Me
 
-Hello! I'm [Your Name], a programmer and web developer with experience in various fields of software development. I am passionate about learning new technologies and working on challenging projects.
+Hello! I'm sina, a programmer and web developer with experience in various fields of software development. I am passionate about learning new technologies and working on challenging projects.
 
 - 📍 Location: [City, Country]
 - 🎓 Education: [Degree] from [University/Institute]
@@ -54,10 +53,10 @@ A task management tool developed with [Framework/Programming Language], providin
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdirahimiam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdirahimiam&theme=radical&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdirahimiam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 Thank you for visiting my profile! 🌟
-
-
