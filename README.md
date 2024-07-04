@@ -40,7 +40,7 @@ A personal blog application built using [Framework/Programming Language], offeri
 ## Contact Me
 
 - 📧 Email: [dev.sinanp@gmail.com](mailto:dev.sinanp@gmail.com)
-- 💼 LinkedIn: [Sina Nasibparst]([https://www.linkedin.com/in/sina-nasibparst])
+- 💼 LinkedIn: [SinaNasibparst](https://www.linkedin.com/in/sina-nasibparst)
 - 🌐 Personal Website: [coming soon]
 
 ---
