@@ -2,60 +2,55 @@
 
 ---
 
-## About Me
+## 💫 About Me
 
-Hello! I'm sina, a programmer and web developer with experience in various fields of software development. I am passionate about learning new technologies and working on challenging projects.
-
-- 📍 Location: [City, Country]
-- 🎓 Education: [Degree] from [University/Institute]
-- 💼 Profession: [Current Job/Role]
+ a programmer and web developer with experience in various fields of software development. I am passionate about learning new technologies and working on challenging projects.
 
 ---
 
 ## Skills
 
-- **Programming Languages:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-- **Frameworks and Libraries:**
+- **Frontend Development:**
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  - ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  - ![Formik](https://img.shields.io/badge/-Formik-FF69B4?style=flat&logo=formik&logoColor=white)
+  - ![Swiper](https://img.shields.io/badge/-Swiper-6332F6?style=flat&logo=swiper&logoColor=white)
+  - ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
-- **Tools and Technologies:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Backend Development:**
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- **UI/UX Design:**
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## My Projects
 
-### [📚 Personal Blog App](https://github.com/devblp/blp-personnel)
+### [📚 Personal](https://github.com/devblp/blp-personnel)
 
 A personal blog application built using [Framework/Programming Language], offering features like creating and managing posts, advanced search, and responsive design.
-
-### [🛠️ Task Management Tool](https://github.com/username/task-manager)
-
-A task management tool developed with [Framework/Programming Language], providing features like creating and editing tasks, setting deadlines, and notifications.
 
 ---
 
 ## Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [dev.sinanp@gmail.com](mailto:dev.sinanp@gmail.com)
+- 💼 LinkedIn: [Sina Nasibparst]([https://www.linkedin.com/in/sina-nasibparst])
+- 🌐 Personal Website: [coming soon]
 
 ---
 
 ## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdirahimiam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdirahimiam&theme=radical&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdirahimiam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devblp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=2ecc71)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devblp&theme=radical&hide_border=false&title_color=2ecc71)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devblp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=2ecc71)
 
 ---
 
