@@ -10,6 +10,7 @@
 
 ## Skills
 
+
 - **Frontend Development:**
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
   - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -46,11 +47,10 @@ A personal blog application built using [Framework/Programming Language], offeri
 ---
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devblp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=2ecc71)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devblp&theme=dark&hide_border=false&title_color=2ecc71)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devblp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=2ecc71)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devblp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=fbd100)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devblp&theme=dark&hide_border=false&title_color=fbd100)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devblp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=fbd100)
 
 ---
 
