@@ -28,13 +28,6 @@
 - **UI/UX Design:**
   - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-## My Projects
-
-### [📚 Personal](https://github.com/devblp/blp-personnel)
-
-A personal blog application built using [Framework/Programming Language], offering features like creating and managing posts, advanced search, and responsive design.
 
 ---
 
@@ -42,7 +35,6 @@ A personal blog application built using [Framework/Programming Language], offeri
 
 - 📧 Email: [dev.sinanp@gmail.com](mailto:dev.sinanp@gmail.com)
 - 💼 LinkedIn: [SinaNasibparst](https://www.linkedin.com/in/sina-nasibparst)
-- 🌐 Personal Website: [coming soon]
 
 ---
 
