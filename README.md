@@ -13,7 +13,17 @@
 
 - **Frontend Development:**
   - ![](https://skillicons.dev/icons?i=react "React")
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  - ![](https://skillicons.dev/icons?i=nextjs "Next.js")
+  - ![](https://skillicons.dev/icons?i=redux "Redux")
+  - ![](https://skillicons.dev/icons?i=nodejs "Node.js")
+  - ![](https://skillicons.dev/icons?i=expressjs "Express.js")
+  - ![](https://skillicons.dev/icons?i=postman "Postman")
+  - ![](https://skillicons.dev/icons?i=mongodb "MongoDB")
+  - ![](https://skillicons.dev/icons?i=tailwindcss "Tailwind CSS")
+  - ![](https://skillicons.dev/icons?i=bootstrap "Bootstrap")
+  - ![](https://skillicons.dev/icons?i=sass "Sass")
+  - ![](https://skillicons.dev/icons?i=threejs "Threejs")
+  - 
   - ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   - ![Formik](https://img.shields.io/badge/-Formik-FF69B4?style=flat&logo=formik&logoColor=white)
