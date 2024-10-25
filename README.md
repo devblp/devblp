@@ -12,18 +12,25 @@
 
 
 - **Frontend Development:**
- 
-![](https://skillicons.dev/icons?i=js "Js")   ![](https://skillicons.dev/icons?i=ts "Ts") ![](https://skillicons.dev/icons?i=react "React") ![](https://skillicons.dev/icons?i=nextjs "Next.js") ![](https://skillicons.dev/icons?i=redux "Redux") ![](https://skillicons.dev/icons?i=nodejs "Node.js") ![](https://skillicons.dev/icons?i=expressjs "Express.js") ![](https://skillicons.dev/icons?i=postman "Postman") ![](https://skillicons.dev/icons?i=mongodb "MongoDB") ![](https://skillicons.dev/icons?i=tailwindcss "Tailwind CSS") ![](https://skillicons.dev/icons?i=bootstrap "Bootstrap") ![](https://skillicons.dev/icons?i=sass "Sass") ![](https://skillicons.dev/icons?i=threejs "Threejs")
+
+  - ![](https://skillicons.dev/icons?i=js "Js")
+![](https://skillicons.dev/icons?i=ts "Ts") 
+![](https://skillicons.dev/icons?i=react "React") 
+![](https://skillicons.dev/icons?i=nextjs "Next.js") 
+![](https://skillicons.dev/icons?i=redux "Redux")
+![](https://skillicons.dev/icons?i=materialui "Materialui") 
+![](https://skillicons.dev/icons?i=tailwindcss "Tailwind CSS") 
+![](https://skillicons.dev/icons?i=threejs "Threejs")
 
 - **Backend Development:**
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  - ![](https://skillicons.dev/icons?i=nodejs "Node.js") 
+![](https://skillicons.dev/icons?i=expressjs "Express.js") 
+![](https://skillicons.dev/icons?i=postman "Postman") 
+![](https://skillicons.dev/icons?i=mongodb "MongoDB") 
 
 - **UI/UX Design:**
-  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
+  - ![](https://skillicons.dev/icons?i=figma "Figma")
+    
 ---
 
 ## Contact Me
